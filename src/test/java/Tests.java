@@ -15,7 +15,7 @@ public class Tests {
      * 3.用私有构造器或枚举类强化单例
      * 4.通过私有构造器强化不可实例化的能力
      * 5.避免创建不必要的对象
-     * 6.消除过期的对象引用ZZZZZEEEEEE
+     * 6.消除过期的对象引用ZZZZZEEEEEEFFFFFFFF
      * 7.避免使用终结方法
      */
 
